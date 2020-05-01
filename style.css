@@ -1,0 +1,6 @@
+Body, ul, li, p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2ren;
+  font-family: Arial
