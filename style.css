@@ -12,4 +12,8 @@ text-decoration: none;
 
 .header {
 display: flex;
+justify-content: space-between;
+padding: 15px;
+
+
 }
