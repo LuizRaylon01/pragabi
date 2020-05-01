@@ -4,3 +4,12 @@ Body, ul, li, p {
   list-style: none;
   font-size: 1.2ren;
   font-family: Arial
+}
+
+a {
+text-decoration: none;
+}
+
+.header {
+display-flex;
+}
