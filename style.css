@@ -24,7 +24,7 @@ align-itens: center;
 
 .menu {
 
-padding: 5px;
+display: flex;
 
 
 }
