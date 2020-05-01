@@ -24,8 +24,13 @@ align-itens: center;
 
 .menu {
 
-background-color: #00FFFF;
 padding: 5px;
 
 
+}
+
+.menu li {
+
+margin-left: 15px;
+background-color: #A52A2A;
 }
