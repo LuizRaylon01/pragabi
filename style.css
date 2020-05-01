@@ -32,5 +32,12 @@ padding: 5px;
 .menu li {
 
 margin-left: 15px;
+
+}
+
+.menu li a {
+display: block;
+padding: 10px;
 background-color: #A52A2A;
+
 }
