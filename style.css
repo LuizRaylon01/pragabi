@@ -8,12 +8,15 @@ Body, ul, li, p {
 
 a {
 text-decoration: none;
+color: white;
 }
 
 .header {
+background: 1d1e20;
 display: flex;
+flex-wrap: wrap;
 justify-content: space-between;
 padding: 15px;
-
+align-itens: center;
 
 }
