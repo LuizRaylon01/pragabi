@@ -11,5 +11,5 @@ text-decoration: none;
 }
 
 .header {
-display-flex;
+display: flex;
 }
