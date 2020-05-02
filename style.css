@@ -1,5 +1,5 @@
 Body {
-color: #000
+background-color: #000
 }
 
 
@@ -18,7 +18,6 @@ color: white;
 }
 
 h1{
-color: white;
 background-color: #000
 text-align: center;
 margin-top: 150px;
@@ -67,7 +66,6 @@ background-color: #A52A2A;
 .flex{
 
 display: flex;
-background-color: #000
 flex-wrap: wrap;
 max-width: 550px;
 margin: 0 auto;
@@ -85,6 +83,5 @@ margin: 20px;
 
 color: white;
 text-decoration: none;
-margin: 20px;
 }
 
