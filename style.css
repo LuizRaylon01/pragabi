@@ -67,21 +67,15 @@ background-color: #A52A2A;
 
 display: flex;
 flex-wrap: wrap;
-max-width: 550px;
-margin: 0 auto;
+margin: 10px;
 align-items: center;
 }
 
-.flex > div {
-flex: 1 1 500px;
-margin: 20px;
+
+.Imagem {
+background-image: url="183389065a9c0d932175234098e63120.jpg " ; /* Insere a imagem */
+width: 150px;
+height: 150px;
 
 
 }
-
-.flex p {
-
-color: white;
-text-decoration: none;
-}
-
