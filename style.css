@@ -58,17 +58,18 @@ background-color: #A52A2A;
 /* CSS FLEXBOX */
 
 .flex{
-background-color:#C1CDCD
+
 display: flex;
+background-color: #C1CDCD
 flex-wrap: wrap;
 max-width: 550px;
 marginal: 0 auto;
-
+align-items: center;
 }
 
 .flex > div {
 flex: 1 1 500px;
-margin: 10;
+margin: 20;
 
 
 }
