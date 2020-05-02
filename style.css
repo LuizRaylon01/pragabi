@@ -22,7 +22,7 @@ color: white;
 background-color: #000
 text-align: center;
 margin-top: 150px;
-margin-bot: 50px;
+margin-low: 50px;
 }
 
 
@@ -84,7 +84,7 @@ margin: 20px;
 .flex p {
 
 color: white;
-text-decoration: black;
+text-decoration: none;
 margin: 20px;
 }
 
