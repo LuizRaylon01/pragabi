@@ -67,7 +67,6 @@ background-color: #A52A2A;
 
 display: flex;
 flex-direction: column;
-margin: 10px;
 }
 
 
@@ -75,24 +74,21 @@ margin: 10px;
 
 width: 550px;
 height: 500px;
-padding: 20px;
-margin-bottom: 25px;
+
 }
 
 .Imagem3 {
 
 width: 550px;
 height: 500px;
-padding: 20px;
-margin-bottom: 25px;
+
 }
 
 .Imagem4 {
 
 width: 550px;
 height: 500px;
-padding: 20px;
-margin-bottom: 25px;
+
 }
 
 
