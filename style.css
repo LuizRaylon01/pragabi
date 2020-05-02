@@ -25,6 +25,13 @@ margin-bottom: 50px;
 }
 
 
+h2{ 
+color: white;
+text-align: center;
+text-decorantion: brown;
+margin-top: 70px;
+}
+
 .header {
 background-color: #000;
 display: flex;
