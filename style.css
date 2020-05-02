@@ -18,7 +18,7 @@ color: white;
 }
 
 h1{
-background-color: #000
+color: white
 text-align: center;
 margin-top: 150px;
 margin-low: 50px;
@@ -73,13 +73,38 @@ align-itens: center;
 }
 
 
-.Imagem {
-background-image: url="183389065a9c0d932175234098e63120.jpg ";
-background-image: url="20c810fd266f1afc199989b669cbea22.jpg ";
-background-image: url="3f0ad0d31ab0f39101397eab9a1e1804.jpg";
-background-image: url="ce7b0e925e70366bd4b1a476c8324a1c.jpg ";
+.Imagem1 {
+
 width: 150px;
 height: 150px;
+padding: 20px;
+margin-top: 15px;
 
+}
+
+.Imagem2 {
+
+width: 150px;
+height: 150px;
+padding: 20px;
+margin-top: 15px;
+
+}
+
+.Imagem3 {
+
+width: 150px;
+height: 150px;
+padding: 20px;
+margin-top: 15px;
+
+}
+
+.Imagem4 {
+
+width: 150px;
+height: 150px;
+padding: 20px;
+margin-top: 15px;
 
 }
