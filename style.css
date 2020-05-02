@@ -111,14 +111,8 @@ color: #FFF;
 color-decoration: none;
 background-color: #363636;
 
-} 
-.Imagem2 p {
-font-size: 1.2ren;
-font-family: Arial;
-color: #FFF;
-color-decoration: none;
-background-color: #363636;
 }
+
 .Imagem3 p {
 font-size: 1.2ren;
 font-family: Arial;
@@ -129,7 +123,7 @@ background-color: #363636;
 .Imagem4 p {
 font-size: 1.2ren;
 font-family: Arial;
-color: #FFF;
+color: #FFFAFA;
 color-decoration: none;
 background-color: #363636;
 }
