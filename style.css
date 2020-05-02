@@ -21,7 +21,7 @@ h1{
 color: white;
 text-align: center;
 margin-top: 150px;
-margin-low: 50px;
+margin-bottom: 50px;
 }
 
 
@@ -100,7 +100,6 @@ margin-top: 25px;
 font-size: 1.2ren;
 font-family: Arial;
 color: #FFF;
-color-decoration: none;
 background-color: #363636;
 
 }
@@ -109,14 +108,12 @@ background-color: #363636;
 font-size: 1.2ren;
 font-family: Arial;
 color: #FFF;
-color-decoration: none;
 background-color: #363636;
 }
 .Imagem4 p {
 font-size: 1.2ren;
 font-family: Arial;
 color: #FFFAFA;
-color-decoration: none;
 background-color: #363636;
 }
 
