@@ -12,13 +12,19 @@ text-decoration: none;
 color: white;
 }
 
+h1{
+text-align: center;
+margin-top: 150px;
+}
+
+
 .header {
 background-color: #000;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 padding: 15px;
-align-itens: center;
+align-items: center;
 
 }
 
