@@ -73,21 +73,21 @@ display: flex;
 
 width: 550px;
 height: 500px;
-
+margin: 15px;
 }
 
 .Imagem3 {
 
 width: 550px;
 height: 500px;
-
+margin: 15px;
 }
 
 .Imagem4 {
 
 width: 550px;
 height: 500px;
-
+margin: 15px;
 }
 
 
@@ -97,7 +97,7 @@ font-family: Arial;
 color: #FFF;
 background-color: #363636;
 padding: 20px;
-
+margin-top: 10px;
 }
 
 .Imagem3 p {
@@ -106,6 +106,7 @@ font-family: Arial;
 color: #FFF;
 background-color: #363636;
 padding: 20px;
+margin-top: 10px;
 }
 .Imagem4 p {
 font-size: 1.2ren;
@@ -113,6 +114,7 @@ font-family: Arial;
 color: #FFFAFA;
 background-color: #363636;
 padding: 20px;
+margin-top: 10px;
 }
 
 
