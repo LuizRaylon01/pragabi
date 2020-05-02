@@ -75,17 +75,17 @@ align-itens: center;
 
 .Imagem1 {
 
-width: 150px;
-height: 150px;
+width: 400px;
+height: 400px;
 padding: 20px;
 margin-top: 15px;
-margin-bottom: 20px;
+margin-bottom: 50px;
 }
 
 .Imagem2 {
 
-width: 150px;
-height: 150px;
+width: 500px;
+height: 500px;
 padding: 20px;
 margin-top: 15px;
 margin-bottom: 20px;
@@ -93,8 +93,8 @@ margin-bottom: 20px;
 
 .Imagem3 {
 
-width: 150px;
-height: 150px;
+width: 500px;
+height: 500px;
 padding: 20px;
 margin-top: 15px;
 margin-bottom: 20px;
@@ -102,8 +102,8 @@ margin-bottom: 20px;
 
 .Imagem4 {
 
-width: 150px;
-height: 150px;
+width: 500px;
+height: 500px;
 padding: 20px;
 margin-top: 15px;
 margin-bottom: 20px;
