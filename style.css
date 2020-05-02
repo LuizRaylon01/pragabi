@@ -65,13 +65,13 @@ display: flex;
 background-color: #000
 flex-wrap: wrap;
 max-width: 550px;
-marginal: 0 auto;
+margin: 0 auto;
 align-items: center;
 }
 
 .flex > div {
 flex: 1 1 500px;
-margin: 20;
+margin: 20px;
 
 
 }
