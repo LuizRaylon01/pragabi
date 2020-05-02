@@ -13,6 +13,8 @@ color: white;
 }
 
 h1{
+color: white;
+background-color: #000
 text-align: center;
 margin-top: 150px;
 margin-bot: 50px;
@@ -60,7 +62,7 @@ background-color: #A52A2A;
 .flex{
 
 display: flex;
-background-color: #C1CDCD
+background-color: #000
 flex-wrap: wrap;
 max-width: 550px;
 marginal: 0 auto;
@@ -74,5 +76,10 @@ margin: 20;
 
 }
 
+.flex p {
 
+color: white;
+text-decoration: black;
+margin: 20px;
+}
 
