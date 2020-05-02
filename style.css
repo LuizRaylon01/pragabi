@@ -58,7 +58,7 @@ background-color: #A52A2A;
 /* CSS FLEXBOX */
 
 .flex{
-
+background-color:#C1CDCD
 display: flex;
 flex-wrap: wrap;
 max-width: 250px;
