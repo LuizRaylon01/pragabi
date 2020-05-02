@@ -78,8 +78,6 @@ align-itens: center;
 width: 250px;
 height: 200px;
 padding: 20px;
-margin-top: 15px;
-margin-bottom: 50px;
 }
 
 .Imagem2 {
@@ -87,8 +85,6 @@ margin-bottom: 50px;
 width: 250px;
 height: 200px;
 padding: 20px;
-margin-top: 15px;
-margin-bottom: 20px;
 }
 
 .Imagem3 {
@@ -96,8 +92,6 @@ margin-bottom: 20px;
 width: 250px;
 height: 200px;
 padding: 20px;
-margin-top: 15px;
-margin-bottom: 20px;
 }
 
 .Imagem4 {
@@ -105,8 +99,6 @@ margin-bottom: 20px;
 width: 250px;
 height: 200px;
 padding: 20px;
-margin-top: 15px;
-margin-bottom: 20px;
 }
 
 
@@ -133,4 +125,10 @@ font-size: 1.2ren;
 font-family: Arial;
 color: #FFF;
 color-decoration: none;
+}
+
+
+div {
+ margin-top: 25px;
+
 }
