@@ -29,6 +29,11 @@ align-items: center;
 
 }
 
+img {
+max-width: 50%;
+display: block;
+}
+
 .menu {
 
 display: flex;
@@ -55,16 +60,15 @@ background-color: #A52A2A;
 .flex{
 
 display: flex;
-margin-left: 25px;
 flex-wrap: wrap;
-
-
+max-width: 250px;
+marginal: 0 auto;
 
 }
 
 .flex > div {
 flex: 1 1 200px;
-
+margin: 10;
 
 
 }
