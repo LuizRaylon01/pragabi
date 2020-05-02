@@ -31,7 +31,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 padding: 15px;
-align-items: center;
+align-itens: center;
 
 }
 
@@ -66,9 +66,10 @@ background-color: #A52A2A;
 .flex{
 
 display: flex;
+flex-direction: column;
 flex-wrap: wrap;
 margin: 10px;
-align-items: center;
+align-itens: center;
 }
 
 
