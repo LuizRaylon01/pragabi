@@ -32,7 +32,7 @@ margin-top: 15px;
 margin-rigth: 10px;
 display: block;
 padding: 5px;
-background-color: #A52A2A;
+border-bottom: solid 10px #A52A2A;
 font-size: 1.2ren;
 font-family: Arial;
 }
