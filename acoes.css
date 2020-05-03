@@ -30,6 +30,19 @@ font-family: Arial;
 
 /* cap */
 
+.center {
+
+position: absolute;
+top: 0;
+bottom: 0;
+right: 0;
+left: 0;
+width: 350px;
+height: 350px;
+margin: auto;
+}
+
+
 .cap p {
 
 color: white;
