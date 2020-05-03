@@ -31,14 +31,7 @@ font-family: Arial;
 
 .center {
 
-position: absolute;
-top: 200;
-bottom: 0;
-right: 0;
-left: 0;
-width: 600px;
-height: 800px;
-margin: auto;
+align-items: center;
 border: 10px;
 border-style: solid;
 border-color: #A52A2A;
@@ -63,14 +56,7 @@ font-weight: 300px;
 border: none;
 padding: 15px;
 cursor: pointer;
-position: absolute;
-top: 0;
-bottom: 0;
-right: 150;
-left: 0;
-width: 80px;
-height: 50px;
-margin: auto;
+align-items: center;
 }
 
 .cor { 
