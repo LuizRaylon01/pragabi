@@ -4,8 +4,6 @@ background-color: #000;
 
 .header {
 background-color: #000;
-display: flex;
-flex-wrap: wrap;
 padding: 15px;
 align-items: center;
 }
