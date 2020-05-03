@@ -37,9 +37,12 @@ top: 0;
 bottom: 0;
 right: 0;
 left: 0;
-width: 350px;
-height: 350px;
+width: 600px;
+height: 800px;
 margin: auto;
+border: 10px;
+border-style: solid;
+border-color: #A52A2A;
 }
 
 
@@ -51,5 +54,35 @@ padding: 5px;
 margin-bottom: 25px;
 margin-top: 150px;
 background-color: #A52A2A;
+
+}
+ 
+.botao {
+font-family: Arial;
+font-size: 15px;
+font-weight
+border: none;
+padding: 15px;
+cursor: pointer;
+}
+
+.cor { 
+background: #A52A2A;
+color: white;
+box-shadow: 0 7px 0 #8B1A1A;
+
+}
+
+.cor:hover { 
+background: #8B1A1A;
+color: white;
+box-shadow: 0 7px 0 #8B2323;
+
+}
+
+.cor:active { 
+position: relative;
+top: 5px;
+box-shadow: none;
 
 }
