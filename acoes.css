@@ -8,6 +8,9 @@ background-size: 100%;
 background-attachment: fixed;
 }
 
+div {
+width: 100%;
+}
 
 
 
@@ -66,12 +69,12 @@ border: none;
 padding: 15px;
 cursor: pointer;
 position: absolute;
-top: 0;
+top: 1000;
 bottom: 0;
 right: 0;
 left: 0;
-width: 30px;
-height: 15px;
+width: 80px;
+height: 50px;
 margin: auto;
 }
 
