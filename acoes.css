@@ -1,6 +1,14 @@
+
 body {
 width: 100%;
 background-color: #000;
+}
+
+.flex {
+
+display: flex;
+flex-direction: column;
+
 }
 
 div {
@@ -30,11 +38,8 @@ font-family: Arial;
 
 /* cap */
 
-.center {
+img {
 
-margin-left: auto;
-margin-rigth: auto;
-border: 10px;
 border-style: solid;
 border-color: #A52A2A;
 }
@@ -58,8 +63,7 @@ font-weight: 300px;
 border: none;
 padding: 15px;
 cursor: pointer;
-margin-left: auto;
-margin-rigth: auto;
+
 }
 
 .cor { 
@@ -83,6 +87,3 @@ box-shadow: none;
 
 }
 
-a {
-text-decorantion: none;
-}
