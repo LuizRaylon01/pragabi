@@ -65,7 +65,6 @@ font-weight: 300px;
 border: none;
 padding: 15px;
 cursor: pointer;
-text-decorantion: none;
 }
 
 .cor { 
@@ -87,4 +86,8 @@ position: relative;
 top: 5px;
 box-shadow: none;
 
+}
+
+a {
+text-decorantion: none;
 }
