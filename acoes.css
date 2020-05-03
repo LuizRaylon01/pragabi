@@ -1,0 +1,15 @@
+.header {
+background-color: #000;
+}
+
+.header h1 {
+
+text-align: center;
+color: white 
+margin-top: 15px;
+display: block;
+padding: 10px;
+background-color: #A52A2A
+font-size: 1.2ren;
+font-family: Arial;
+}
