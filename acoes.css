@@ -5,6 +5,7 @@ background-color: #000;
 
 div {
 width: 100%;
+align-items: center;
 }
 
 
@@ -31,7 +32,7 @@ font-family: Arial;
 
 .center {
 
-align-items: center;
+margin: auto;
 border: 10px;
 border-style: solid;
 border-color: #A52A2A;
@@ -56,7 +57,7 @@ font-weight: 300px;
 border: none;
 padding: 15px;
 cursor: pointer;
-align-items: center;
+margin: auto;
 }
 
 .cor { 
