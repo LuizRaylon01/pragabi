@@ -32,7 +32,8 @@ font-family: Arial;
 
 .center {
 
-margin: auto;
+margin-left: auto;
+margin-rigth: auto;
 border: 10px;
 border-style: solid;
 border-color: #A52A2A;
@@ -57,7 +58,8 @@ font-weight: 300px;
 border: none;
 padding: 15px;
 cursor: pointer;
-margin: auto;
+margin-left: auto;
+margin-rigth: auto;
 }
 
 .cor { 
