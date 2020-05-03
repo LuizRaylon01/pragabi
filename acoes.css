@@ -4,6 +4,7 @@ background-color: #000;
 
 .header {
 background-color: #000;
+padding: 20;
 }
 
 .texto h1 {
@@ -12,7 +13,7 @@ text-align: center;
 color: white;
 margin-top: 15px;
 display: block;
-padding: 10px;
+padding: 5px;
 background-color: #A52A2A;
 font-size: 1.2ren;
 font-family: Arial;
