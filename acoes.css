@@ -1,8 +1,12 @@
+body {
+background-color: #000;
+}
+
 .header {
 background-color: #000;
 }
 
-.header h1 {
+.texto h1 {
 
 text-align: center;
 color: white;
