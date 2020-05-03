@@ -39,7 +39,7 @@ font-family: Arial;
 /* cap */
 
 img {
-
+border: 3px;
 border-style: solid;
 border-color: #A52A2A;
 }
