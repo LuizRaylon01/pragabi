@@ -129,3 +129,16 @@ margin-top: 10px;
 
 align-items: center;
 }
+
+
+/* footer */
+
+
+
+.creditos p a {
+
+color: white;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+}
