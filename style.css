@@ -133,12 +133,16 @@ align-items: center;
 
 /* footer */
 
+.creditos{
 
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+
+}
 
 .creditos p a {
 
 color: white;
-display: flex;
-flex-direction: row;
-justify-content: flex-end;
+
 }
