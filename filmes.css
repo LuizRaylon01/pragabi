@@ -1,0 +1,17 @@
+.header {
+
+width: 100%;
+background-color: #000;
+align-items: center;
+
+}
+
+.texto h1 {
+
+text-align: center;
+background-color: #A52A2A;
+color: white;
+padding: 5px;
+margin-top: 10px;
+
+}
