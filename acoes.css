@@ -29,10 +29,11 @@ align-items: center;
 text-align: center;
 color: white;
 margin-top: 15px;
-margin-rigth: 10px;
+margin-rigth: 20px;
+background-color: #A52A2A;
 display: block;
 padding: 5px;
-border-bottom: solid 10px #A52A2A;
+
 font-size: 1.2ren;
 font-family: Arial;
 }
@@ -53,7 +54,7 @@ font-size: 36px;
 padding: 5px;
 margin-bottom: 25px;
 margin-top: 150px;
-background-color: #A52A2A;
+border-bottom: solid 10px #A52A2A;
 
 }
  
