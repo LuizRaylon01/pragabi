@@ -23,3 +23,9 @@ color: white;
 padding: 15px;
 border: solid 10px #A52A2A;
 }
+
+.foto {
+height: 800px;
+width: 500px;
+margin-bottom: 10px;
+}
