@@ -1,35 +1,30 @@
-.header {
+body {
+background-color: #000;
+}
 
+.header {
 width: 100%;
 background-color: #000;
 align-items: center;
 padding: 15px;
-
 }
 
 .texto h1 {
-
 text-align: center;
 background-color: #A52A2A;
 color: white;
 padding: 5px;
 margin-top: 10px;
-
 }
 
 .grade {
-
 display: flex;
 flex-direction: column;
-
 }
 
 .texto2 {
-
+margin-top: 20px;
 color: white;
 padding: 15px;
 border: solid 10px #A52A2A;
-
-
-
 }
