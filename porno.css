@@ -12,3 +12,48 @@ color: white;
 padding: 5px;
 margin-top: 10px;
 }
+
+
+.estilo h3 {
+
+text-align: center;
+color: white;
+Paddington: 15px;
+border: solid 10px #A52A2A;
+
+}
+
+
+
+.botao {
+font-family: Arial;
+font-size: 15px;
+font-weight: 300px;
+border: none;
+padding: 15px;
+margin-top: 20px;
+cursor: pointer;
+text-decoration: nome;
+
+}
+
+.cor { 
+background: #A52A2A;
+color: white;
+box-shadow: 0 7px 0 #8B1A1A;
+
+}
+
+.cor:hover { 
+background: #8B1A1A;
+color: white;
+box-shadow: 0 7px 0 #8B2323;
+
+}
+
+.cor:active { 
+position: relative;
+top: 5px;
+box-shadow: none;
+
+}
