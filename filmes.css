@@ -20,5 +20,16 @@ margin-top: 10px;
 .grade {
 
 display: flex;
+flex-direction: column;
+
+}
+
+.texto2 {
+
+color: white;
+padding: 15px;
+border: solid 10px #A52A2A;
+
+
 
 }
