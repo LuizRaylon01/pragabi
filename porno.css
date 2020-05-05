@@ -18,7 +18,7 @@ margin-top: 10px;
 }
 
 
-.estilo h3 {
+h3 {
 
 text-align: center;
 color: white;
@@ -32,8 +32,6 @@ border: solid 10px #A52A2A;
 .botao {
 font-family: Arial;
 font-size: 15px;
-font-weight: 300px;
-border: none;
 padding: 15px;
 margin-top: 20px;
 cursor: pointer;
